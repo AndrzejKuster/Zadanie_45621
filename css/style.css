@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-.body {
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -274,7 +274,7 @@ label[for="drop-nav"] {
 
     .about .about-img {
         max-height: 200px;
-        max-width: 20px;
+        max-width: 200px;
     }
 
     .kontakt input[type="text"],
